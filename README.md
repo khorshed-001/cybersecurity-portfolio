@@ -36,3 +36,15 @@ I learn mainly through hands-on practice, building security labs, experimenting 
 - HTML
 - CSS
 - JavaScript
+
+## Certifications & Learning
+
+### Certifications
+- Cisco Certified Network Associate (CCNA)
+- Google Cybersecurity Professional Certificate
+- Certified Ethical Hacker (CEH v13)
+
+### Currently Learning
+- AWS Cloud Security — Digital Egypt Pioneers Initiative (DEPI)
+- Cloud Security Fundamentals
+- AWS Security Services & Best Practices
