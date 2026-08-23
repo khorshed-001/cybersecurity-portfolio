@@ -69,3 +69,15 @@ Hands-on practice using Cisco Packet Tracer to build and configure network topol
 - NAT
 - Network troubleshooting
 - Basic network security concepts
+
+ ## Education & Training
+
+### Arab Open University (AOU)
+**BSc in Computer Science — Cybersecurity**  
+2023 – Present
+
+### Digital Egypt Pioneers Initiative (DEPI)
+**AWS Cloud Security Track**  
+Currently enrolled
+
+Focused on cloud security concepts, AWS security services, and securing cloud environments.
