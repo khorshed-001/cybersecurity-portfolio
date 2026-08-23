@@ -85,5 +85,5 @@ Focused on cloud security concepts, AWS security services, and securing cloud en
 ## Connect With Me
 
 - LinkedIn: [Seif Khorshed](www.linkedin.com/in/seif-khorshed-21232e)
-- TRYHACKME: [seif.khorshed23]([YOUR_GITHUB_URL](https://tryhackme.com/p/seif.khorshed23?tab=certificates))
+- TRYHACKME: [seif.khorshed23]((https://tryhackme.com/p/seif.khorshed23?tab=certificates))
 - Email: seifnader212@gmail.com
